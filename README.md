@@ -1,4 +1,4 @@
-## 📌 Banking Transaction System
+## 📌 ParaBank Demo Banking Website
 
 ### 📖 Project Overview
 The **Banking Transaction System** is a planned software project developed as the **DEPI Final Project**.  
